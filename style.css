@@ -1,0 +1,39 @@
+.card-body{
+    padding: 0px;
+}
+.m-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card{
+    border: none;
+    margin: 16px;
+    border-radius: 0px;
+    padding: 12px;
+}
+.name{
+    font-weight: bold;
+}
+.card-text{
+    margin: 0px;
+}
+hr{
+    margin: 3px;
+}
+.color{
+    margin-top: 6px;
+    color: black;
+}
+.extra{
+    color: #929292;
+}
+h1{
+    font-family: 'Roboto', sans-serif;;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 32px;
+}
+.card:hover{
+    border: 1px solid #e4e4e4
+}
